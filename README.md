@@ -10,7 +10,7 @@ Used a modified olivetti dataset. It is a set of face images taken between April
 
 ## Results
 
-Because of the similarity of the images, the Classic ML has outstandig results, proven that classic ML is still a good option for this kind of tasks, deppending on the dataset.
+Because of the **similarity** of the features of the face images, the Classic ML has outstandig results, proven that classic ML is still a good option for this kind of tasks, in some data sets.
 
 Type | Model | Accuracy | F-score 
 ---|---|---|---
@@ -19,4 +19,6 @@ Deep Learning | custom CNN | 0.95 | 0.9475
 Transfer Learning | VGG16 + new layers | 0.9625 | 0.96
 
 Despite being an image classification job with few data, classic machine learning turned out to be a fast and light alternative, especially due to the reduction of the dimensionality from 4096 to 471. The CNN model was also a good alternative, but it was more complex and time consuming to train, and it was not as accurate as the classic ML model. The transfer learning model was accurate as the classic ML model, but it was more complex and time consuming to train.
+
+
 
