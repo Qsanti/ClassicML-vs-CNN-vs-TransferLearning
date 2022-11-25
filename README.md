@@ -1,5 +1,5 @@
 # Classic ML vs CNN vs Transfer Learning
-**Notebook&amp;Report** of a **face recognition classification task** comparing three ways of achieving it:
+**Notebook&amp;Report** of a **face recognition classification task** of a similar charateristics data set comparing performace three ways of achieving it:
 
 * A *classic machine learning classificator*
 * A *convolitional neural network* builted from scratch 
